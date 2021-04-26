@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Shreya Shah (@shreyashah1903).
+## 👋 Hi, I’m Shreya Shah.
 
 ### ☺️ Qualities that I possess -
 - Polyglot developer, learns and grasps new things quickly.
@@ -33,8 +33,7 @@
 [gmail]: mailto:shreyashah1903@yahoo.com/
 [Linkedin]: https://www.linkedin.com/in/shreyashah1903/
 
-
-### I am currently learning new languages and looking for projects that I can collaborate to.
+I am currently learning new languages and looking for projects that I can collaborate to.
 
 
 
